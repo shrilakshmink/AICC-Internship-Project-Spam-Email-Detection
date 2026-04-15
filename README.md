@@ -4,7 +4,8 @@ Email Spam Detection Web App using Machine Learning and Streamlit
 ## 📧 Email Spam Detection Web App
 ## 🌐 Live Demo
 
-👉 https://your-app-name.streamlit.app
+👉 https://aicc-internship-project--spam-email-detection-cxf4qtcrddzaiar6.streamlit.app/ 
+
 Built an interactive spam detection system using Machine Learning.
 
 ### 🔹 Features
