@@ -2,7 +2,9 @@
 Email Spam Detection Web App using Machine Learning and Streamlit
 
 ## 📧 Email Spam Detection Web App
+## 🌐 Live Demo
 
+👉 https://your-app-name.streamlit.app
 Built an interactive spam detection system using Machine Learning.
 
 ### 🔹 Features
